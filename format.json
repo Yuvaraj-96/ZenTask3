@@ -1,0 +1,50 @@
+{
+    "basics": {
+      "name": "Yuvaraj Poobalan",
+      "email": "yuvarajmechmailam@gmail.com",
+      "phone": 98766452310,
+      "degree": "B.E",
+      "website": "Need to create",
+      "summary": "Summary",
+      "location": {
+        "address": "Address ,Line1, Line2",
+        "postalCode": 124569,
+        "countryCode": "IN"
+      }
+    },
+    "work": [
+      {
+        "company": "Current company",
+        "position": "Developer",
+        "website": "website.com",
+        "startDate": 2018,
+        "endDate": "Null"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "College",
+        "area": "Mechanical",
+        "studyType": "Full Time",
+        "startDate": 2014,
+        "endDate": 2018,
+        "gpa": 8
+      }
+    ],
+    "skills": [
+      {
+        "name": "Creating webpage",
+        "level": "Good",
+        "keywords": [
+          "Java","JS","servlet"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Good"
+      }
+    ]
+  }
